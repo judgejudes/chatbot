@@ -1,3 +1,2 @@
-# Kate Compton - A5
+# messing around with chatbots using tracery :)
 
-A place to hold both chancery and tracery examples
